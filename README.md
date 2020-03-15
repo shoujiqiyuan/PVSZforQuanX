@@ -28,11 +28,16 @@
 
 ## 更新日志
 
++ v0.2
+2020-03-15
+新增植物图标：93枚
+新增僵尸图标：00枚
+
 + v0.1
 2020-03-14
-植物图标：30枚
-僵尸图标：12枚
+新增植物图标：30枚
+新增僵尸图标：12枚
 
 
 ## 预览图效果
-![markdown](https://github.com/shoujiqiyuan/PVSZforQuanX/blob/master/Preview%20v0.1.png "PVSZforQuanX")
+![markdown](https://github.com/shoujiqiyuan/PVSZforQuanX/blob/master/Preview.png "PVSZforQuanX")
